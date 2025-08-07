@@ -166,6 +166,7 @@ Por defecto se ejecuta en: [http://localhost:5173](http://localhost:5173)
 
 - Asegúrate de que backend y frontend se estén ejecutando simultáneamente.
 - Revisa las URLs y puertos en caso de errores de CORS o conexión rechazada.
+- El video se encuentra en este [link](https://drive.google.com/drive/folders/1yvkDQ0aioYYGYwVtguM2cV3v-BKwViuZ?usp=sharing).
 
 ---
 
